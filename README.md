@@ -28,9 +28,3 @@ A simple Python project that checks the strength of a password based on differen
 
 ```bash
 python main.py
-Enter your password: Alok@123
-Strong Password 
-password_checker/
-│── main.py
-│── README.md
-│── LICENSE
